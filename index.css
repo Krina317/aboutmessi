@@ -1,0 +1,26 @@
+.navcolor{
+  background-color:rgb(30, 0, 255);
+  opacity: 1;
+  color:whitesmoke ;
+  --bs-navbar-hover-color: rgb(255, 0, 51);
+  --bs-navbar-brand-hover-color:  rgb(255, 0, 51);
+  --bs-navbar-active-color: rgb(255, 0, 51);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-search {
+  content: "\f002";
+}
+
+.fa-home{
+  content: "\f015";
+}
